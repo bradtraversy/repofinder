@@ -1,0 +1,9 @@
+#search_list{margin-top:10px;}
+.thumbnail{
+	width:40px;
+	height:auto;
+	padding:3px;
+	border:1px #ccc solid;
+	margin-right:10px;
+	margin-bottom:-10px;
+}
